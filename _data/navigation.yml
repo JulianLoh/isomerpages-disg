@@ -8,7 +8,7 @@
   url: /simple-page-A/
 - title: Simple Page B
   url: /simple-page-B/
-- title: Left Nav One
+- title: Left Nav Four
   url: /left-nav-one/sub-page-A/
   sub-links:
   - title: Sub Page A
